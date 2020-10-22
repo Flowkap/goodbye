@@ -28,7 +28,8 @@ body,
 
 .digit {
     display: inline-block;
-    vertical-align: center
+    vertical-align: center;
+    margin-top: 8px;
 }
 
 .digit .number {
